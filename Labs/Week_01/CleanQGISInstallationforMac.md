@@ -68,7 +68,7 @@ QGIS is not yet notarized as required by macOS Catalina+ (10.15) security rules.
 This step will create a new User Profile, which is  useful when troubleshooting weird errors, or after an upgrade. This process will create a new, clean User Profile, and reset to the installation default settings for QGIS. Plugins and customizations will need to be reinstalled. It will not delete your old profile, and you can move back and forth between profiles, from the **Settings>User Profiles>** menu.
 
 1. In the QGIS App, go to **Settings>User Profiles>New Profile**...
-2. Name the profile something like `Earthsys144 - Labs` to identify it,  and **click OK**.
+2. Name the profile something like `Earthsys144 - Labs` to identify it, and **click OK**.
 
 ![](images/CleanQGISInstallationforMac-7d8fffc6_reduce-drop-shadow.png)
 
@@ -80,7 +80,7 @@ This step will create a new User Profile, which is  useful when troubleshooting 
 
 QuickMapServices Plugin provides a convenient catalog of tiled map services for use as basemaps and reference layers, in QGIS.
 
-1. go to **Plugins>Manage and Install** and search for **QuickMapServices** and install the plugin.
+1. go to **Plugins>Manage and Install Plugins...** and search for **QuickMapServices** and install the plugin.
 
 ![](images/qms_install.png)
 
