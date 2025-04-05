@@ -48,7 +48,7 @@ QGIS is not yet notarized as required by macOS Catalina+ (10.15) security rules.
 ![alt text](./images/image.png)
 
 2.**Click Done**, to dismiss the error.
-3. Open your **Mac System Settings**, and go to the **Security & Privacy settings**.
+3. Open your **Mac System Settings**, and go to the **Privacy & Security settings**.
 4. Scroll to the bottom of the page, and you should see something like this:
 
 ![alt text](./images/image2.png)
