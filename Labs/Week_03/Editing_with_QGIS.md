@@ -164,7 +164,7 @@ To suppress the Feature Attribute Editing pop-up:
 ![](images/20250328_155431_image.png)
 
 1. Navigate to the **Digitizing** tab.
-2. Under the **Feature creation** section, uncheck the box labeled **Open feature form after adding a new feature**.
+2. Under the **Feature creation** section, uncheck the box labeled **Suppress attribute form pop-up after feature creation**.
 
 ![](images/20250328_155519_image.png)
 
